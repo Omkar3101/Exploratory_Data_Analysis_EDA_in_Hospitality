@@ -102,3 +102,7 @@ This project provided hands-on experience in:
 *   Presenting complex data in a clear and understandable manner.
 
 ---
+### **Acknowledgements**
+
+*   This project was inspired by the curriculum of the **Codebasics Data Analytics Bootcamp**.
+*   Special thanks to mentors **Dhaval Patel** and **Hemanand Vadivel** for their invaluable guidance.
