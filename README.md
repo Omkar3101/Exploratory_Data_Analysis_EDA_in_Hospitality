@@ -1,6 +1,6 @@
 # **Exploratory Data Analysis (EDA) for Revenue Optimization**
 
-### **[🔗 View Project Notebook](#)** *(Paste your notebook/blob link here)*
+### **[🔗 View Project Notebook](https://github.com/Omkar3101/Exploratory_Data_Analysis_EDA_in_Hospitality/blob/main/hotels_analysis.ipynb)*
 
 ---
 
